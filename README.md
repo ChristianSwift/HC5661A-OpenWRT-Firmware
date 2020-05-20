@@ -1,0 +1,1 @@
+# Hiwifi HC5661A OpenWRT with SSR firmware
